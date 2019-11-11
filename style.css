@@ -134,7 +134,7 @@ header {
 /*-----------Banner-section------------*/
 
 #banner {
-    background-image: url("file:///Users/pilarb.sancheza./INSTASALUD S.A/INSTASALUD S.A/Esteban Tipán - EMBAJADA/2.- IMPLEMENTACION/PROYECTOS/5.- AGROAQUI/PAGINA WEB/AGROAQUI/RESOURCES/2477738.jpg");
+    background-image: url('RESOURCES/2477738.jpg');
     align-items: center;
     width: 100%;
     height: 100vh;
